@@ -1,0 +1,3 @@
+pip install dtale --user
+pip install pandas-profiling --user
+pip install sweetviz --user
